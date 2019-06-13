@@ -1,0 +1,6 @@
+C:\Users\EdrickLiu\Desktop\Docker Compose\NETCoreWithDockerCompose\ApplicationThree\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\EdrickLiu\Desktop\Docker Compose\NETCoreWithDockerCompose\ApplicationThree\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\EdrickLiu\Desktop\Docker Compose\NETCoreWithDockerCompose\ApplicationThree\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\EdrickLiu\Desktop\Docker Compose\NETCoreWithDockerCompose\ApplicationThree\obj\Debug\netcoreapp2.2\ApplicationThree.csproj.CoreCompileInputs.cache
+C:\Users\EdrickLiu\Desktop\Docker Compose\NETCoreWithDockerCompose\ApplicationThree\obj\Debug\netcoreapp2.2\ApplicationThree.AssemblyInfoInputs.cache
+C:\Users\EdrickLiu\Desktop\Docker Compose\NETCoreWithDockerCompose\ApplicationThree\obj\Debug\netcoreapp2.2\ApplicationThree.AssemblyInfo.cs
